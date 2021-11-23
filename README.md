@@ -13,9 +13,9 @@ apt install ruby
 
 gem install lolcat
 
-git clone https://github.com/z-ZxQ/VIRTEX
+git clone https://github.com/DarkBeamerYT/bruhtex
 
-cd VIRTEX
+cd bruhtex
 
 chmod +x virtex.sh
 
